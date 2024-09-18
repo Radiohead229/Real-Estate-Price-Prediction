@@ -26,7 +26,7 @@ This project deals with the Data Science Concepts:
 - Visual Studio Code
 - Postman
 
-The necessary Python Libraries to install 
+The necessary Python Libraries to install...
 - pandas, numpy, matplotlib [data processing]
 - sk learn [model making]
 - flask [making the back-end flask server]
