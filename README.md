@@ -10,13 +10,13 @@ Writing a **Python Flask Server** that uses the saved model to serve http reques
 Making a **user friendly website** that gives the estimated prices for different regions.
 
 This project deals with the Data Science Concepts:
-- *Data load and data Cleaning*
-- *Feature Engineering*
-- *One Hot Encoding*
-- *Outlier Detection*
-- *Dimentionality Reduction*
-- *Grid Search CV for hyperparameter tuning*
-- *K-fold cross validation and more*
+- *Data load and data Cleaning.*
+- *Feature Engineering.*
+- *One Hot Encoding.*
+- *Outlier Detection.*
+- *Dimentionality Reduction.*
+- *Grid Search CV for hyperparameter tuning.*
+- *K-fold cross validation.*
 
 
 # Tools Used 
